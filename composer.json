@@ -1,0 +1,13 @@
+{
+    "name": "patricmutwiri/pesapal",
+    "description": "Pay using Pesapal,in Laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Mutwiri",
+            "email": "patwiri@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
